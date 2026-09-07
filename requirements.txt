@@ -1,0 +1,3 @@
+discord.py>=2.3
+# brain.py + guard.py use only the Python stdlib (urllib, json, re) for the local-Ollama backend.
+# For the optional Claude backend, no extra package is needed (raw HTTPS via urllib).
