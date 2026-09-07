@@ -18,4 +18,18 @@ Under the hood it's three small pieces: the Discord client (events, slash comman
 
 ---
 
-*(Post to LinkedIn + X. After posting, append the LinkedIn + X permalinks at the bottom, like #5–10.)*
+## X / Twitter version (≤280)
+
+🤖 Project #11 of my 30 AI projects in 15 days: a Discord bot that actually lives in a server.
+
+@mention or DM it → replies with per-channel memory, running on my own local GPU fleet (no cloud key, $0/msg), safety-gated on every message.
+
+Code → github.com/GritAI-Labs/discord-ai-bot
+
+*(Attach a screenshot of it replying in #general.)*
+
+---
+
+*(Post to LinkedIn + X. After posting, append the LinkedIn + X permalinks below, like #5–10.)*
+
+**Permalinks:** X: https://x.com/BonusLockSmith/status/2097018473914544239 · LinkedIn: _____
